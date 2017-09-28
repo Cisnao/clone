@@ -1,5 +1,4 @@
 sfsdfsdfsdfdsfsdf
-<<<<<<< HEAD
 ce6afd2f48d033fdd14010dc0ef103936f7be6b4
 aaaaaaaaaaaaaaaadev
 mmmmmmmm
@@ -8,7 +7,6 @@ aaaaaaaaaaaaaaaadev
 testestestestsetestste
 aaaaaaaaaaaaaaaadev
 testestestestsetestste ce6afd2f48d033fdd14010dc0ef103936f7be6b4
-=======
 
 aaaaaaaaaaaaaaaadev
 
@@ -16,4 +14,3 @@ mmmmmmmm
 
 aaaaaaaaaaaaaaaadev
 
->>>>>>> ce6afd2f48d033fdd14010dc0ef103936f7be6b4
