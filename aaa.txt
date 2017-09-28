@@ -1,6 +1,8 @@
 sfsdfsdfsdfdsfsdf
-<<<<<<<<<<head
+
 aaaaaaaaaaaaaaaadev
-=========
+
 mmmmmmmm
->>>>>>>>>>dev
+
+aaaaaaaaaaaaaaaadev
+
